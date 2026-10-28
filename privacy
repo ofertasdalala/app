@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Ofertas da Lala</title>
+    <style>body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }</style>
+</head>
+<body>
+    <h1>Política de Privacidade</h1>
+    <p><strong>Última atualização:</strong> 28 de outubro de 2026.</p>
+
+    <p>Esta política explica como a automação da <strong>Ofertas da Lala</strong> trata informações quando você autoriza o acesso à sua conta do Pinterest.</p>
+
+    <h2>1. Dados utilizados</h2>
+    <p>Para permitir o envio e agendamento de Pins, podem ser processados:</p>
+    <ul>
+        <li>Identificador da conta Pinterest autorizada.</li>
+        <li>Token de acesso necessário para chamar a API do Pinterest.</li>
+        <li>Imagens, links, título e descrição relacionados ao Pin.</li>
+    </ul>
+
+    <h2>2. Finalidade</h2>
+    <p>Os dados são usados exclusivamente para permitir que o usuário envie e agende seus próprios Pins na sua conta do Pinterest, automatizando o processo de publicação de ofertas.</p>
+
+    <h2>3. Compartilhamento</h2>
+    <p>Não vendemos, alugamos ou compartilhamos dados pessoais com terceiros para fins de publicidade. Os dados podem ser processados pelo Pinterest conforme as políticas e autorizações da própria plataforma.</p>
+
+    <h2>4. Armazenamento</h2>
+    <p>Os tokens e informações necessários ao funcionamento são armazenados de forma segura e mantidos apenas pelo tempo necessário para operar a automação.</p>
+
+    <h2>5. Revogação do acesso</h2>
+    <p>Você pode revogar o acesso do aplicativo à sua conta do Pinterest a qualquer momento nas configurações de segurança e permissões do Pinterest.</p>
+
+    <h2>6. Contato</h2>
+    <p>Para dúvidas sobre esta política, entre em contato através do nosso site principal.</p>
+</body>
+</html>
